@@ -1,4 +1,3 @@
-![Texto Digitand](https://demolab.com)
 
 # Olá, eu sou o SuperNaray! 👋
 olá, sou SuperNaray um dos donos do OsJanelas. Eu e o Danoni631 perdemos a antiga conta :( , mas agr eu tou nessa e posto projetos desde simples jogos até coisas grandes 
@@ -6,9 +5,12 @@ olá, sou SuperNaray um dos donos do OsJanelas. Eu e o Danoni631 perdemos a anti
 
 ### 💻 O que estou estudando e programando:
 Atualmente estou focado em aprender e evoluir nas seguintes linguagens:
-* 🛠️ **C / C++ / C#**
-* ☕ **Java**
-* 🐍 **Python**
+
+![C](https://shields.io)
+![C++](https://shields.io)
+![C#](https://shields.io)
+![Java](https://shields.io)
+![Python](https://shields.io)
 
 ---
 ### 🚀 Projeto em Destaque: DoorsOS
