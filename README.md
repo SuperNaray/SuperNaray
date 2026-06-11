@@ -1,7 +1,5 @@
 # Olá, eu sou o SuperNaray! 👋
-
-Seja bem-vindo ao meu perfil! Sou um dos criadores e donos do projeto **OsJanelas** junto com o meu amigo **Danoni631**. Tivemos um problema e perdemos a nossa conta antiga, mas o trabalho não para e agora este é o meu novo espaço!
-
+olá, sou SuperNaray um dos donos do OsJanelas. Eu e o Danoni631 perdemos a antiga conta :( , mas agr eu tou nessa e posto projetos desde simples jogos até coisas grandes 
 ---
 
 ### 💻 O que estou estudando e programando:
@@ -13,4 +11,4 @@ Atualmente estou focado em aprender e evoluir nas seguintes linguagens:
 ---
 
 ### 🚀 Projeto em Destaque: DoorsOS
-Estou planejando e desenvolvendo o **DoorsOS**, uma ideia para um sistema operacional próprio! Fique de olho por aqui para acompanhar as novidades e atualizações do código.
+Estou planejando o desenvolvimento de um sistema operacional opensorce (como o linux) com o Danoni631. Então fiquem de olho
