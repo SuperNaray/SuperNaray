@@ -14,6 +14,6 @@ Atualmente estou focado em aprender e evoluir nas seguintes linguagens:
 
 ---
 ### 🚀 Projeto em Destaque: DoorsOS
-Estou planejando o desenvolvimento de um sistema operacional opensurce (como o linux) com o Danoni631. Então fiquem de olho
+Estou planejando o desenvolvimento de um sistema operacional opensurce (como o linux) com o @Danoni631. Então fiquem de olho
 
 
